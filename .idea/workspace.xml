@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a0f730c-bbdc-4e29-a30a-b7d4adfd4c6d" name="Changes" comment="BEBRARAAAA">
-      <change afterPath="$PROJECT_DIR$/Telegram_Bot_Python/AsyncIO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Telegram_Bot_Python/typewriting.py" afterDir="false" />
-    </list>
+    <list default="true" id="0a0f730c-bbdc-4e29-a30a-b7d4adfd4c6d" name="Changes" comment="AsyncIO and typewriting testfiles added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777703764768</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="AsyncIO and typewriting testfiles added">
+      <option name="closed" value="true" />
+      <created>1777763552738</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1777763552738</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BEBRARAAAA" />
-    <option name="LAST_COMMIT_MESSAGE" value="BEBRARAAAA" />
+    <MESSAGE value="AsyncIO and typewriting testfiles added" />
+    <option name="LAST_COMMIT_MESSAGE" value="AsyncIO and typewriting testfiles added" />
   </component>
 </project>
