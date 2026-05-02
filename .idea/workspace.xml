@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a0f730c-bbdc-4e29-a30a-b7d4adfd4c6d" name="Changes" comment="BEBRARAAAA">
+      <change afterPath="$PROJECT_DIR$/Telegram_Bot_Python/AsyncIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telegram_Bot_Python/typewriting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Telegram_Bot_Python/just.pensil.py" beforeDir="false" afterPath="$PROJECT_DIR$/Telegram_Bot_Python/just.pensil.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Telegram_Bot_Python" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "1lu4d"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/1lu4d/Telegram_Bot_Python.git",
+    "accountId": "38be3ac1-be4c-4885-a8c9-c2aa79003d2c"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -38,6 +51,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.AsyncIO.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.typewriting.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -97,7 +113,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777702953159</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="BEBRARAAAA">
+      <option name="closed" value="true" />
+      <created>1777703525941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777703525941</updated>
+    </task>
+    <task id="LOCAL-00006" summary="BEBRARAAAA">
+      <option name="closed" value="true" />
+      <created>1777703764768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1777703764768</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
